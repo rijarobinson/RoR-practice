@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+||||||| merged common ancestors
+=======
+# RoR-practice
+>>>>>>> ef7fd961d4a8690cf8a5d113e1054d9224f94e75
